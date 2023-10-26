@@ -8,6 +8,7 @@ namespace UserInfo
         {
             Console.WriteLine("Name : " + username);
             Console.WriteLine("Age : " + age);
+            Console.WriteLine("Age : " + age);
             Console.WriteLine("Address : " + address);
         }
 
