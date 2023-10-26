@@ -1,0 +1,14 @@
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\ArraysCalc.exe
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\ArraysCalc.deps.json
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\ArraysCalc.runtimeconfig.json
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\ArraysCalc.dll
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\ArraysCalc.pdb
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ArraysCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ArraysCalc.AssemblyInfoInputs.cache
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ArraysCalc.AssemblyInfo.cs
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ArraysCalc.csproj.CoreCompileInputs.cache
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ArraysCalc.dll
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\refint\ArraysCalc.dll
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ArraysCalc.pdb
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ArraysCalc.genruntimeconfig.cache
+C:\Users\sabdu\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ref\ArraysCalc.dll

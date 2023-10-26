@@ -1,0 +1,14 @@
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\bin\Debug\net6.0\biggestThreeNumbers.exe
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\bin\Debug\net6.0\biggestThreeNumbers.deps.json
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\bin\Debug\net6.0\biggestThreeNumbers.runtimeconfig.json
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\bin\Debug\net6.0\biggestThreeNumbers.dll
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\bin\Debug\net6.0\biggestThreeNumbers.pdb
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\obj\Debug\net6.0\biggestThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\obj\Debug\net6.0\biggestThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\obj\Debug\net6.0\biggestThreeNumbers.AssemblyInfo.cs
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\obj\Debug\net6.0\biggestThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\obj\Debug\net6.0\biggestThreeNumbers.dll
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\obj\Debug\net6.0\refint\biggestThreeNumbers.dll
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\obj\Debug\net6.0\biggestThreeNumbers.pdb
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\obj\Debug\net6.0\biggestThreeNumbers.genruntimeconfig.cache
+C:\Users\sabdu\source\repos\ConsoleApp1\biggestThreeNumbers\obj\Debug\net6.0\ref\biggestThreeNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\bin\Debug\net6.0\swapTwoNum.exe
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\bin\Debug\net6.0\swapTwoNum.deps.json
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\bin\Debug\net6.0\swapTwoNum.runtimeconfig.json
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\bin\Debug\net6.0\swapTwoNum.dll
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\bin\Debug\net6.0\swapTwoNum.pdb
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\obj\Debug\net6.0\swapTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\obj\Debug\net6.0\swapTwoNum.AssemblyInfoInputs.cache
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\obj\Debug\net6.0\swapTwoNum.AssemblyInfo.cs
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\obj\Debug\net6.0\swapTwoNum.csproj.CoreCompileInputs.cache
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\obj\Debug\net6.0\swapTwoNum.dll
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\obj\Debug\net6.0\refint\swapTwoNum.dll
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\obj\Debug\net6.0\swapTwoNum.pdb
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\obj\Debug\net6.0\swapTwoNum.genruntimeconfig.cache
+C:\Users\sabdu\source\repos\ConsoleApp1\swapTwoNum\obj\Debug\net6.0\ref\swapTwoNum.dll
